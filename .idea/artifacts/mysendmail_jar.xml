@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mysendmail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mysendmail_jar</output-path>
+    <root id="archive" name="mysendmail.jar">
+      <element id="module-output" name="mysendmail" />
+      <element id="extracted-dir" path="D:/D/jar包/javamail-1.4.5/mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
